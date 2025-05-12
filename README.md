@@ -17,4 +17,4 @@ cd student-course-api
 pip install -r requirements.txt
 
 # Run the server
-uvicorn app.main:app --reload
+ uvicorn app:app --reload
