@@ -12,7 +12,7 @@ A minimal REST API to manage students and their enrolled courses.
 
 ```bash
 # Clone repo and install dependencies
-git clone https://github.com/yourusername/student-course-api.git
+git clone https://github.com/MajesticUser-HV/student-course-api.git
 cd student-course-api
 pip install -r requirements.txt
 
